@@ -1,0 +1,51 @@
+# Android / Gradle build output and local configuration
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+*.apks
+*.dex
+*.class
+*.hprof
+
+# IDE and operating system files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Credentials, environment files and signing material
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+secrets.properties
+
+# Local diagnostics, personal captures and temporary files
+local-data/
+device-reports/
+recordings/
+*.log
+*.tmp
+*.bak
+
+# Local agent configuration
+.codex/
+.agents/
+
+# Keep the future Gradle wrapper JAR versionable.
+!gradle/wrapper/gradle-wrapper.jar

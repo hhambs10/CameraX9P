@@ -1,0 +1,10 @@
+<resources>
+    <style name="CameraSurface" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">#B2EBFF</item>
+        <item name="android:windowBackground">#080B12</item>
+        <item name="android:colorBackgroundFloating">#1E2937</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
