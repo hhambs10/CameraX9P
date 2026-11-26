@@ -2,6 +2,8 @@
 
 An Android camera built for the OPPO Find X9 Pro.
 
+[![Download APK – v0.22-beta](https://img.shields.io/badge/Download_APK-v0.22--beta-167447?style=for-the-badge)](https://github.com/hhambs10/CameraX9P/releases/download/v0.22-beta/CameraX9P-0.22-beta.apk)
+
 **Public beta 0.22** was tested on the Find X9 Pro (CPH2791) with ColorOS 17. Camera, lens and recording options depend on the capabilities available to Android on each device.
 
 | Photo | Video |
